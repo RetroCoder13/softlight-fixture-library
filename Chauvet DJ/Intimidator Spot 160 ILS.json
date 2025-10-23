@@ -1,0 +1,305 @@
+{
+	"name": "Intimidator Spot 160 ILS",
+	"manufacturer": "Chauvet DJ",
+	"productPage": "https://www.chauvetdj.com/products/intimidator-spot-160-ils/",
+	"pixels": 1,
+	"channels": {
+        "Pan": {
+			"defaultValue": 0,
+			"type": "position"
+		},
+		"Fine Pan": {
+			"defaultValue": 0,
+			"type": "position"
+		},
+		"Tilt": {
+			"defaultValue": 0,
+			"type": "position"
+		},
+		"Fine Tilt": {
+			"defaultValue": 0,
+			"type": "position"
+		},
+        "Pan/Tilt Speed": {
+			"defaultValue": 0,
+			"type": "position"
+		},
+		"Color Wheel": {
+			"defaultValue": 0,
+			"type": "color",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 6,
+                    "description": "Cool White"
+                },
+                {
+                    "startValue": 7,
+                    "endValue": 13,
+                    "description": "Red"
+                },
+                {
+                    "startValue": 14,
+                    "endValue": 20,
+                    "description": "Orange"
+                },
+                {
+                    "startValue": 21,
+                    "endValue": 27,
+                    "description": "Yellow"
+                },
+                {
+                    "startValue": 28,
+                    "endValue": 34,
+                    "description": "Green"
+                },
+                {
+                    "startValue": 35,
+                    "endValue": 41,
+                    "description": "Blue"
+                },
+                {
+                    "startValue": 42,
+                    "endValue": 48,
+                    "description": "CTO"
+                },
+                {
+                    "startValue": 49,
+                    "endValue": 55,
+                    "description": "Cyan"
+                },
+                {
+                    "startValue": 56,
+                    "endValue": 62,
+                    "description": "Magenta"
+                },
+                {
+                    "startValue": 63,
+                    "endValue": 64,
+                    "description": "Lime Green"
+                },
+                {
+                    "startValue": 65,
+                    "endValue": 189,
+                    "description": "Color Indexing"
+                },
+                {
+                    "startValue": 190,
+                    "endValue": 221,
+                    "description": "Color Cycling Rainbow, Fast To Slow"
+                },
+                {
+                    "startValue": 222,
+                    "endValue": 223,
+                    "description": "Stop"
+                },
+                {
+                    "startValue": 224,
+                    "endValue": 255,
+                    "description": "Color Cycling Rainbow, Slow To Fast"
+                }
+            ]
+		},
+        "Gobo Wheel": {
+			"defaultValue": 0,
+			"type": "shape",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 6,
+                    "description": "Open"
+                },
+                {
+                    "startValue": 7,
+                    "endValue": 11,
+                    "description": "Gobo 1"
+                },
+                {
+                    "startValue": 12,
+                    "endValue": 17,
+                    "description": "Gobo 2"
+                },
+                {
+                    "startValue": 18,
+                    "endValue": 23,
+                    "description": "Gobo 3"
+                },
+                {
+                    "startValue": 24,
+                    "endValue": 29,
+                    "description": "Gobo 4"
+                },
+                {
+                    "startValue": 30,
+                    "endValue": 35,
+                    "description": "Gobo 5"
+                },
+                {
+                    "startValue": 36,
+                    "endValue": 41,
+                    "description": "Gobo 6"
+                },
+                {
+                    "startValue": 42,
+                    "endValue": 47,
+                    "description": "Gobo 7"
+                },
+                {
+                    "startValue": 48,
+                    "endValue": 53,
+                    "description": "Gobo 8"
+                },
+                {
+                    "startValue": 54,
+                    "endValue": 63,
+                    "description": "Gobo 9"
+                },
+                {
+                    "startValue": 64,
+                    "endValue": 69,
+                    "description": "Gobo 9 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 70,
+                    "endValue": 75,
+                    "description": "Gobo 8 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 76,
+                    "endValue": 81,
+                    "description": "Gobo 7 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 82,
+                    "endValue": 87,
+                    "description": "Gobo 6 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 88,
+                    "endValue": 93,
+                    "description": "Gobo 5 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 94,
+                    "endValue": 99,
+                    "description": "Gobo 4 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 100,
+                    "endValue": 105,
+                    "description": "Gobo 3 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 106,
+                    "endValue": 111,
+                    "description": "Gobo 2 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 112,
+                    "endValue": 117,
+                    "description": "Gobo 1 Shake, Slow to Fast"
+                },
+                {
+                    "startValue": 118,
+                    "endValue": 127,
+                    "description": "Open"
+                },
+                {
+                    "startValue": 128,
+                    "endValue": 189,
+                    "description": "Cycle Effect, Slow to Fast"
+                },
+                {
+                    "startValue": 190,
+                    "endValue": 193,
+                    "description": "Stop"
+                },
+                {
+                    "startValue": 194,
+                    "endValue": 255,
+                    "description": "Reverse Cycle Effect, Slow to Fast"
+                }
+            ]
+		},
+		"Dimmer": {
+			"defaultValue": 0,
+			"type": "dimmer"
+		},
+        "Shutter": {
+			"defaultValue": 255,
+			"type": "beam",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 3,
+                    "description": "Closed"
+                },
+                {
+                    "startValue": 4,
+                    "endValue": 7,
+                    "description": "Open"
+                },
+                {
+                    "startValue": 8,
+                    "endValue": 76,
+                    "description": "Strobe, Slow to Fast"
+                },
+                {
+                    "startValue": 77,
+                    "endValue": 145,
+                    "description": "Pulse Strobe, Slow to Fast"
+                },
+                {
+                    "startValue": 146,
+                    "endValue": 215,
+                    "description": "Random Strobe, Slow to Fast"
+                },
+                {
+                    "startValue": 216,
+                    "endValue": 255,
+                    "description": "On"
+                }
+            ]
+		},
+		"Control": {
+			"defaultValue": 0,
+			"type": "color",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 7,
+                    "description": "No function"
+                }
+            ]
+		},
+        "Movement Macros": {
+			"defaultValue": 0,
+			"type": "color",
+            "listValues": [
+
+            ]
+		}
+	},
+	"modes": {
+		"11 Channel": [
+			"Pan",
+            "Fine Pan",
+            "Tilt",
+            "Fine Tilt",
+            "Pan/Tilt Speed",
+            "Color Wheel",
+            "Gobo Wheel",
+            "Dimmer",
+            "Shutter",
+            "Control",
+            "Movement Macros"
+		],
+        "5 Channel": [
+			"Pan",
+            "Tilt",
+            "Color Wheel",
+            "Gobo Wheel",
+            "Shutter"
+		]
+	}
+}
