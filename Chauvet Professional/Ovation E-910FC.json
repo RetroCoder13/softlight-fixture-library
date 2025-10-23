@@ -26,7 +26,7 @@
 		},
 		"Fine Green": {
 			"defaultValue": 0,
-			"type": "poscolorition"
+			"type": "color"
 		},
         "Blue": {
 			"defaultValue": 0,
