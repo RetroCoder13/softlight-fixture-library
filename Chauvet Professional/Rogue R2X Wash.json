@@ -5,7 +5,7 @@
 	"pixels": 5,
 	"channels": {
 		"Pan": {
-			"defaultValue": 0,
+			"defaultValue": 128,
 			"type": "position"
 		},
 		"Fine Pan": {
@@ -13,7 +13,7 @@
 			"type": "position"
 		},
 		"Tilt": {
-			"defaultValue": 0,
+			"defaultValue": 128,
 			"type": "position"
 		},
 		"Fine Tilt": {
@@ -21,7 +21,7 @@
 			"type": "position"
 		},
 		"Pan/Tilt Speed": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "position"
 		},
 		"Dimmer": {
@@ -153,163 +153,163 @@
 			"type": "color"
 		},
 		"Red 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Red 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Green 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Green 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Blue 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Blue 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"White 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine White 1": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Red 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Red 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Green 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Green 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Blue 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Blue 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"White 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine White 2": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Red 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Red 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Green 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Green 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Blue 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Blue 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"White 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine White 3": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Red 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Red 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Green 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Green 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Blue 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Blue 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"White 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine White 4": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Red 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Red 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Green 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Green 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Blue 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Blue 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"White 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine White 5": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Color": {
@@ -1049,7 +1049,7 @@
 			"type": "position"
 		},
 		"Zoom": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "beam"
 		},
 		"Control": {
