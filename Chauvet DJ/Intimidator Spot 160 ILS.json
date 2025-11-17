@@ -5,7 +5,7 @@
 	"pixels": 1,
 	"channels": {
         "Pan": {
-			"defaultValue": 0,
+			"defaultValue": 128,
 			"type": "position"
 		},
 		"Fine Pan": {
@@ -13,7 +13,7 @@
 			"type": "position"
 		},
 		"Tilt": {
-			"defaultValue": 0,
+			"defaultValue": 128,
 			"type": "position"
 		},
 		"Fine Tilt": {
@@ -21,7 +21,7 @@
 			"type": "position"
 		},
         "Pan/Tilt Speed": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "position"
 		},
 		"Color Wheel": {
