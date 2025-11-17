@@ -32,7 +32,7 @@
 			"defaultValue": 0,
 			"type": "dimmer"
 		},
-		"Strobe": {
+		"Shutter Strobe": {
 			"defaultValue": 255,
 			"type": "beam",
 			"listValues": [

@@ -52,7 +52,7 @@
 			"defaultValue": 255,
 			"type": "color"
 		},
-		"Strobe": {
+		"Shutter Strobe": {
 			"defaultValue": 0,
 			"type": "beam",
 			"listValues": [
