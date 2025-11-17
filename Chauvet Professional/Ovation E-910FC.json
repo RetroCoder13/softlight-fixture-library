@@ -13,43 +13,43 @@
 			"type": "dimmer"
 		},
 		"Red": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Red": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
         "Green": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Green": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
         "Blue": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Blue": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
         "Amber": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Amber": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
         "Lime": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Fine Lime": {
-			"defaultValue": 0,
+			"defaultValue": 255,
 			"type": "color"
 		},
 		"Strobe": {
