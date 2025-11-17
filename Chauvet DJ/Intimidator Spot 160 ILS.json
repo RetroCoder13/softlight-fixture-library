@@ -290,7 +290,7 @@
             "Color Wheel",
             "Gobo Wheel",
             "Dimmer",
-            "Shutter",
+            "Shutter Strobe",
             "Control",
             "Movement Macros"
 		],
@@ -299,7 +299,7 @@
             "Tilt",
             "Color Wheel",
             "Gobo Wheel",
-            "Shutter"
+            "Shutter Strobe"
 		]
 	}
 }

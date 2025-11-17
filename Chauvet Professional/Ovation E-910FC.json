@@ -227,7 +227,7 @@
             "Fine Amber",
             "Lime",
             "Fine Lime",
-            "Strobe",
+            "Shutter Strobe",
             "Virtual Color Wheel",
             "Color Temperature",
             "Control"
@@ -245,7 +245,7 @@
             "Fine Amber",
             "Lime",
             "Fine Lime",
-            "Strobe"
+            "Shutter Strobe"
 		],
         "12 Channel": [
 			"Dimmer",
@@ -254,7 +254,7 @@
             "Blue",
             "Amber",
             "Lime",
-            "Strobe",
+            "Shutter Strobe",
             "Virtual Color Wheel",
             "Color Temperature",
             "Auto Program",
@@ -269,7 +269,7 @@
             "Blue",
             "Amber",
             "Lime",
-            "Strobe",
+            "Shutter Strobe",
             "Virtual Color Wheel",
             "Color Temperature"
 		],
