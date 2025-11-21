@@ -1,0 +1,17 @@
+{
+	"name": "Dimmer",
+	"manufacturer": "Generic",
+	"productPage": "",
+	"pixels": 1,
+	"channels": {
+        "Dimmer": {
+			"defaultValue": 0,
+			"type": "dimmer"
+		}
+	},
+	"modes": {
+        "1 Channel": [
+            "Dimmer"
+        ]
+	}
+}
