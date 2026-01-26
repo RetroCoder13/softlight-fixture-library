@@ -1,0 +1,27 @@
+{
+	"name": "RGB",
+	"manufacturer": "Generic",
+	"productPage": "",
+	"pixels": 1,
+	"channels": {
+        "Red": {
+			"defaultValue": 0,
+			"type": "color"
+		},
+        "Green": {
+			"defaultValue": 0,
+			"type": "color"
+		},
+        "Blue": {
+			"defaultValue": 0,
+			"type": "color"
+		}
+	},
+	"modes": {
+        "3 Channel": [
+            "Red",
+            "Green",
+            "Blue"
+        ]
+	}
+}
