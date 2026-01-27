@@ -8,11 +8,23 @@
 			"defaultValue": 0,
 			"type": "color"
 		},
+		"Fine Red": {
+			"defaultValue": 0,
+			"type": "color"
+		},
         "Green": {
 			"defaultValue": 0,
 			"type": "color"
 		},
+		"Fine Green": {
+			"defaultValue": 0,
+			"type": "color"
+		},
         "Blue": {
+			"defaultValue": 0,
+			"type": "color"
+		},
+		"Fine Blue": {
 			"defaultValue": 0,
 			"type": "color"
 		}
@@ -22,6 +34,14 @@
             "Red",
             "Green",
             "Blue"
-        ]
+        ],
+		"6 Channel": [
+			"Red",
+			"Fine Red",
+			"Green",
+			"Fine Green",
+			"Blue",
+			"Fine Blue"
+		]
 	}
 }
