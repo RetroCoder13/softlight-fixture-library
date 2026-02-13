@@ -263,7 +263,7 @@
 		},
 		"Control": {
 			"defaultValue": 0,
-			"type": "color",
+			"type": "beam",
             "listValues": [
                 {
                     "startValue": 0,
@@ -274,7 +274,7 @@
 		},
         "Movement Macros": {
 			"defaultValue": 0,
-			"type": "color",
+			"type": "position",
             "listValues": [
 
             ]
