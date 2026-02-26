@@ -1,7 +1,7 @@
 {
-	"name": "<name>",
-	"manufacturer": "<manufacturer>",
-	"productPage": "<product page url>",
+	"name": "Rotosphere Q3",
+	"manufacturer": "Chauvet DJ",
+	"productPage": "https://www.chauvetdj.com/products/rotosphere-q3/",
 	"pixels": 3,
 	"channels": {
         "Red 1":{
