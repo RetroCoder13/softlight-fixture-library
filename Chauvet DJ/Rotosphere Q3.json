@@ -1,0 +1,377 @@
+{
+	"name": "<name>",
+	"manufacturer": "<manufacturer>",
+	"productPage": "<product page url>",
+	"pixels": 3,
+	"channels": {
+        "Red 1":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Green 1":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Blue 1":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "White 1":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Red 2":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Green 2":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Blue 2":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "White 2":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Red 3":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Green 3":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Blue 3":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "White 3":{
+            "defaultValue": 0,
+			"type": "color"
+        },
+        "Shutter Strobe 1":{
+            "defaultValue": 0,
+            "type": "shutter",
+            "listValues":[
+                {
+                    "startValue": 0,
+                    "endValue": 0,
+                    "description": "No function"
+                },
+                {
+                    "startValue": 1,
+                    "endValue": 250,
+                    "description": "Strobe, Slow to Fast"
+                },
+                {
+                    "startValue": 251,
+                    "endValue": 255,
+                    "description": "Sound-Active Strobe"
+                }
+            ]
+        },
+        "Shutter Strobe 2":{
+            "defaultValue": 0,
+            "type": "shutter",
+            "listValues":[
+                {
+                    "startValue": 0,
+                    "endValue": 0,
+                    "description": "No function"
+                },
+                {
+                    "startValue": 1,
+                    "endValue": 250,
+                    "description": "Strobe, Slow to Fast"
+                },
+                {
+                    "startValue": 251,
+                    "endValue": 255,
+                    "description": "Sound-Active Strobe"
+                }
+            ]
+        },
+        "Shutter Strobe 3":{
+            "defaultValue": 0,
+            "type": "shutter",
+            "listValues":[
+                {
+                    "startValue": 0,
+                    "endValue": 0,
+                    "description": "No function"
+                },
+                {
+                    "startValue": 1,
+                    "endValue": 250,
+                    "description": "Strobe, Slow to Fast"
+                },
+                {
+                    "startValue": 251,
+                    "endValue": 255,
+                    "description": "Sound-Active Strobe"
+                }
+            ]
+        },
+        "Motor Control 1": {
+            "defaultValue": 0,
+            "type": "position",
+            "listValues":[
+                {
+                    "startValue": 0,
+                    "endValue": 0,
+                    "description": "Stop"
+                },
+                {
+                    "startValue": 1,
+                    "endValue": 127,
+                    "description": "Rotate Left, Slow to Fast"
+                },
+                {
+                    "startValue": 128,
+                    "endValue": 128,
+                    "description": "Stop"
+                },
+                {
+                    "startValue": 129,
+                    "endValue": 255,
+                    "description": "Rotate Right, Slow to Fast"
+                }
+            ]
+        },
+        "Color Macros and Auto Programs": {
+            "defaultValue": 0,
+            "type": "color",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 5,
+                    "description": "Blackout"
+                },
+                {
+                    "startValue": 6,
+                    "endValue": 13,
+                    "description": "Red, Red, Red"
+                },
+                {
+                    "startValue": 14,
+                    "endValue": 22,
+                    "description": "Green, Green, Green"
+                },
+                {
+                    "startValue": 23,
+                    "endValue": 31,
+                    "description": "Blue, Blue, Blue"
+                },
+                {
+                    "startValue": 32,
+                    "endValue": 40,
+                    "description": "White, White, White"
+                },
+                {
+                    "startValue": 41,
+                    "endValue": 49,
+                    "description": "Red, Green, Blue"
+                },
+                {
+                    "startValue": 50,
+                    "endValue": 58,
+                    "description": "Red, Green, White"
+                },
+                {
+                    "startValue": 59,
+                    "endValue": 67,
+                    "description": "Red, Blue, White"
+                },
+                {
+                    "startValue": 68,
+                    "endValue": 76,
+                    "description": "Green, Blue, White"
+                },
+                {
+                    "startValue": 77,
+                    "endValue": 85,
+                    "description": "Red Green, Red Blue, Red White"
+                },
+                {
+                    "startValue": 86,
+                    "endValue": 94,
+                    "description": "Green Red, Green Blue, Green White"
+                },
+                {
+                    "startValue": 95,
+                    "endValue": 103,
+                    "description": "Blue Red, Blue Green, Blue White"
+                },
+                {
+                    "startValue": 104,
+                    "endValue": 112,
+                    "description": "White Red, White Green, Blue White"
+                },
+                {
+                    "startValue": 113,
+                    "endValue": 121,
+                    "description": "Red Green, Red Green, Red Green"
+                },
+                {
+                    "startValue": 122,
+                    "endValue": 130,
+                    "description": "Red Blue, Red Blue, Red Blue"
+                },
+                {
+                    "startValue": 131,
+                    "endValue": 139,
+                    "description": "Red White, Red White, Red White"
+                },
+                {
+                    "startValue": 140,
+                    "endValue": 148,
+                    "description": "Green Blue, Green Blue, Green Blue"
+                },
+                {
+                    "startValue": 149,
+                    "endValue": 157,
+                    "description": "Green White, Green White, Green White"
+                },
+                {
+                    "startValue": 158,
+                    "endValue": 166,
+                    "description": "Blue White, Blue White, Blue White"
+                },
+                {
+                    "startValue": 167,
+                    "endValue": 175,
+                    "description": "Red Green Blue, Red Green Blue, Red Green Blue"
+                },
+                {
+                    "startValue": 176,
+                    "endValue": 184,
+                    "description": "Red Green White, Red Green White, Red Green White"
+                },
+                {
+                    "startValue": 185,
+                    "endValue": 193,
+                    "description": "Green Blue White, Green Blue White, Green Blue White"
+                },
+                {
+                    "startValue": 194,
+                    "endValue": 202,
+                    "description": "Red Green Blue, Green Blue White, Red Green White"
+                },
+                {
+                    "startValue": 203,
+                    "endValue": 211,
+                    "description": "RGBW, RGBW, RGBW"
+                },
+                {
+                    "startValue": 212,
+                    "endValue": 220,
+                    "description": "Program 1 / Sound 1"
+                },
+                {
+                    "startValue": 221,
+                    "endValue": 229,
+                    "description": "Program 2 / Sound 2"
+                },
+                {
+                    "startValue": 230,
+                    "endValue": 238,
+                    "description": "Program 3 / Sound 3"
+                },
+                {
+                    "startValue": 239,
+                    "endValue": 247,
+                    "description": "Program 4 / Sound 4"
+                },
+                {
+                    "startValue": 248,
+                    "endValue": 255,
+                    "description": "Program 5 / Sound 5"
+                }
+            ]
+        },
+        "Auto Speed": {
+            "defaultValue": 0,
+            "type": "beam",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 250,
+                    "description": "Program Speed, Slow to Fast"
+                },
+                {
+                    "startValue": 251,
+                    "endValue": 255,
+                    "description": "Sound-Active Sensitivity"
+                }
+            ]
+        },
+        "Motor Control 2": {
+            "defaultValue": 0,
+            "type": "position",
+            "listValues": [
+                {
+                    "startValue": 0,
+                    "endValue": 0,
+                    "description": "Stop"
+                },
+                {
+                    "startValue": 1,
+                    "endValue": 127,
+                    "description": "Rotate Left, Slow to Fast"
+                },
+                {
+                    "startValue": 128,
+                    "endValue": 128,
+                    "description": "Stop"
+                },
+                {
+                    "startValue": 129,
+                    "endValue": 255,
+                    "description": "Rotate Right, Slow to Fast"
+                }
+            ]
+        }
+	},
+	"modes": {
+        "19 Channel": [
+            "Red 1",
+            "Green 1",
+            "Blue 1",
+            "White 1",
+            "Shutter Strobe 1",
+            "Red 2",
+            "Green 2",
+            "Blue 2",
+            "White 2",
+            "Shutter Strobe 2",
+            "Red 3",
+            "Green 3",
+            "Blue 3",
+            "White 3",
+            "Shutter Strobe 3",
+            "Motor Control 1",
+            "Color Macros and Auto Programs",
+            "Auto Speed",
+            "Motor Control 2"
+        ],
+        "9 Channel": [
+            "Red 1",
+            "Green 1",
+            "Blue 1",
+            "White 1",
+            "Shutter Strobe 1",
+            "Motor Control 1",
+            "Color Macros and Auto Programs",
+            "Auto Speed",
+            "Motor Control 2"
+        ],
+        "3 Channel": [
+            "Color Macros and Auto Programs",
+            "Auto Speed",
+            "Motor Control 1"
+        ]
+	}
+}
