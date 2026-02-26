@@ -269,6 +269,76 @@
                     "startValue": 0,
                     "endValue": 7,
                     "description": "No function"
+                },
+                {
+                    "startValue": 8,
+                    "endValue": 15,
+                    "description": "Blackout during Pan/Tilt"
+                },
+                {
+                    "startValue": 16,
+                    "endValue": 23,
+                    "description": "Blackout during Color Wheel"
+                },
+                {
+                    "startValue": 24,
+                    "endValue": 31,
+                    "description": "Blackout during Gobo Wheel"
+                },
+                {
+                    "startValue": 32,
+                    "endValue": 39,
+                    "description": "Blackout during Pan/Tilt & Color Wheel"
+                },
+                {
+                    "startValue": 40,
+                    "endValue": 47,
+                    "description": "Blackout during Pan/Tilt & Gobo Wheel"
+                },
+                {
+                    "startValue": 48,
+                    "endValue": 55,
+                    "description": "Blackout during Pan/Tilt & Color Wheel & Gobo Wheel"
+                },
+                {
+                    "startValue": 56,
+                    "endValue": 95,
+                    "description": "No function"
+                },
+                {
+                    "startValue": 96,
+                    "endValue": 103,
+                    "description": "Pan Reset"
+                },
+                {
+                    "startValue": 104,
+                    "endValue": 111,
+                    "description": "Tilt Reset"
+                },
+                {
+                    "startValue": 112,
+                    "endValue": 119,
+                    "description": "Color Wheel Reset"
+                },
+                {
+                    "startValue": 120,
+                    "endValue": 127,
+                    "description": "Gobo Wheel Reset"
+                },
+                {
+                    "startValue": 128,
+                    "endValue": 151,
+                    "description": "No function"
+                },
+                {
+                    "startValue": 152,
+                    "endValue": 159,
+                    "description": "Reset All"
+                },
+                {
+                    "startValue": 160,
+                    "endValue": 255,
+                    "description": "No function"
                 }
             ]
 		},
@@ -276,7 +346,91 @@
 			"defaultValue": 0,
 			"type": "position",
             "listValues": [
-
+                {
+                    "startValue": 0,
+                    "endValue": 7,
+                    "description": "No function"
+                },
+                {
+                    "startValue": 8,
+                    "endValue": 23,
+                    "description": "Movement Macro 1"
+                },
+                {
+                    "startValue": 24,
+                    "endValue": 39,
+                    "description": "Movement Macro 2"
+                },
+                {
+                    "startValue": 40,
+                    "endValue": 55,
+                    "description": "Movement Macro 3"
+                },
+                {
+                    "startValue": 56,
+                    "endValue": 71,
+                    "description": "Movement Macro 4"
+                },
+                {
+                    "startValue": 72,
+                    "endValue": 87,
+                    "description": "Movement Macro 5"
+                },
+                {
+                    "startValue": 88,
+                    "endValue": 103,
+                    "description": "Movement Macro 6"
+                },
+                {
+                    "startValue": 104,
+                    "endValue": 119,
+                    "description": "Movement Macro 7"
+                },
+                {
+                    "startValue": 120,
+                    "endValue": 135,
+                    "description": "Movement Macro 8"
+                },
+                {
+                    "startValue": 136,
+                    "endValue": 151,
+                    "description": "Sound-Active Movement Macro 1"
+                },
+                {
+                    "startValue": 152,
+                    "endValue": 167,
+                    "description": "Sound-Active Movement Macro 2"
+                },
+                {
+                    "startValue": 168,
+                    "endValue": 183,
+                    "description": "Sound-Active Movement Macro 3"
+                },
+                {
+                    "startValue": 184,
+                    "endValue": 199,
+                    "description": "Sound-Active Movement Macro 4"
+                },
+                {
+                    "startValue": 200,
+                    "endValue": 215,
+                    "description": "Sound-Active Movement Macro 5"
+                },
+                {
+                    "startValue": 216,
+                    "endValue": 231,
+                    "description": "Sound-Active Movement Macro 6"
+                },
+                {
+                    "startValue": 232,
+                    "endValue": 247,
+                    "description": "Sound-Active Movement Macro 7"
+                },
+                {
+                    "startValue": 248,
+                    "endValue": 255,
+                    "description": "Sound-Active Movement Macro 8"
+                }
             ]
 		}
 	},
